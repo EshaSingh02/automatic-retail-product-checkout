@@ -475,4 +475,4 @@ The project report identifies several possible extensions:
 M.Tech, Sustainable Energy Engineering  
 IIT Kanpur
 
-
+Individual Contribution: Fine-tuned YOLOv8m on the Retail Product Checkout (RPC) dataset, designed the training configuration and augmentation strategy, and implemented the inference pipeline for retail product detection and evaluation.
