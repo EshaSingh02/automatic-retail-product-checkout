@@ -467,7 +467,7 @@ The project report identifies several possible extensions:
 7. DINOv2 repository: https://github.com/facebookresearch/dinov2
 8. FAISS documentation: https://faiss.ai/
 
-The first five references above correspond to works cited in the supplied project report.
+
 
 ## Author
 
@@ -475,4 +475,4 @@ The first five references above correspond to works cited in the supplied projec
 M.Tech, Sustainable Energy Engineering  
 IIT Kanpur
 
-**Individual contribution:** [TO BE ADDED]
+
