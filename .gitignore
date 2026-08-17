@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# macOS
+.DS_Store
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.onnx
+*.ckpt
+
+# Generated experiment outputs
+runs/
+outputs/
+wandb/
+
+# Embeddings / indexes / generated arrays
+*.index
+*.npy
+*.npz
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
